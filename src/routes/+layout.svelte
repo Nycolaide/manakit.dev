@@ -1,0 +1,2 @@
+layout global
+<slot />
