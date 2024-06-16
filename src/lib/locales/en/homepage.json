@@ -1,0 +1,80 @@
+{
+	"registry": {
+		"manakit-major-version-is-here": "New version Manakit is here! Discover v{{version}} changelog",
+		"manakit-version-is-here": "Manakit v{{version}} is here",
+		"install-manakit-version": "Install Manakit v{{version}}"
+	},
+	"introduction": {
+		"title": "Manakit is a Svelte component library",
+		"head-acroche": {
+			"reactive": "Reactive",
+			"open-source": "Open Source",
+			"customizable": "Customizable",
+			"typescript": "Typescript freindly"
+		},
+		"content": "Imagine, Create and Develop your Svelte web application with Manakit. Manakit has several customizable components to allow you to quickly build your projects. Manakit lets you focus on functionality and simplifies the creation of modules. Manakit is optimized for your Svelte projects with Vite.js and/or Typescript.",
+		"get-started": "Get started"
+	},
+	"magic": {
+		"title": "Manakit is magic",
+		"introduction": "Manakit is a new Svelte Component Library build from scratch on Typescript for create your web application.",
+		"list": {
+			"customizable": "<span>Customizable.</span> Manakit offers the possibility of deeply adapting Manakit to your project with the management of themes, colors, breakpoints and pre-built components.",
+			"svelte": "<span>Svelte.</span> Manakit is developed on Svelte. It ensures perfect compatibility with your slim application. Manakit has no other dependencies on libraries (for example Bootstrap or Tailwind).",
+			"simple": "<span>Simple.</span>  Manakit is based solely on native HTML elements to ensure easy and quick handling without limiting the customization possibilities.",
+			"vary": "<span>Vary.</span>  Manakit offers a wide range of components to allow you to design complex and optimized interfaces"
+		},
+		"content": "Manakit is designed to work 100% with Svelte.  Developed in Svelte.js and Typescript, it ensures complete operability with the APIs offered by the Svelte framework. The aim of Manakit is to offer complete and customizable components to design web applications in a simple and effective way.",
+		"card": {
+			"svelte": "Build for Svelte",
+			"vite": "Powered by Vite.js",
+			"components": "Custom components",
+			"fast": "Simple and quick",
+			"typescript": "Typescript lover",
+			"w3c": "Web standard support"
+		}
+	},
+	"preview": {
+		"title": "Why make it complicated when you can make it simple?",
+		"actions": {
+			"code": "Code",
+			"preview": "Preview",
+			"see-documentation": "See all components"
+		},
+		"content": "Install Manakit with {{command}} and off you go"
+	},
+	"is-best": {
+		"title": "Manakit is your personalized Svelte component kit",
+		"content": "Manakit stands out from other Svelte component libraries by its lightness and above all its simplicity. It is based solely on Svelte and Vite.js.",
+		"table": {
+			"integrated-style": "Integrated style",
+			"themes": "Themes",
+			"components": "Components",
+			"support": "Long terms support",
+			"release": "Release cadence",
+			"no-dependences": "No dependences"
+		},
+		"mentions-release": "Based on release publication over a period of one year"
+	},
+	"starting": {
+		"title": "We begin ?",
+		"content": "Install Manakit and embark on the adventure",
+		"styles": {
+			"title": "Style",
+			"description": "Predefined classes to simplify your UI"
+		},
+		"config": {
+			"title": "Configuration",
+			"description": "Adapt Manakit to your project"
+		},
+		"components": {
+			"title": "Components",
+			"description": "Discover Manakit components"
+		}
+	},
+	"community": {
+		"title": "Join the community",
+		"content": "Find the team that develops Manakit as well as its community. Share your projects, find support and actively contribute to the evolution of Manakit.",
+		"join-dicsord": "Join us on Discord"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"sitename": "Manakit",
+	"open-source": "Open Source",
+	"developer-by-minedelve": "Developer in France, by Minedelve Teams.",
+	"copyright": "Copyright © 2022-{{year}} Manakit. All rights reserved.",
+	"support-project": "Support the project",
+	"by-me-coffee": "Buy me a coffee",
+	"package-manager": {
+		"npm": "npm",
+		"yarn": "yarn",
+		"bun": "bun",
+		"pnpm": "pnpm"
+	},
+	"date": {
+		"year": "year",
+		"months": "months",
+		"week": "week",
+		"day": "day",
+		"hours": "hours",
+		"minutes": "minutes",
+		"seconds": "seconds"
+	},
+	"social": {
+		"github": "GitHub",
+		"discord": "Discord",
+		"facebook": "Facebook",
+		"x": "X",
+		"npm": "Npm",
+		"instagram": "Instagram",
+		"twitch": "Twitch"
+	}
+}
