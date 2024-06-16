@@ -17,3 +17,6 @@ export * from './docs/components/card';
 
 export * from './homepage';
 export * from './navigation';
+
+export * from './colors/manakit';
+export * from './colors/webkit';
