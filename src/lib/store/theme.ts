@@ -16,6 +16,6 @@ export const colorScheme = writable(
 
 colorScheme.subscribe(($theme: string) => {
 	if (!browser) return;
-	document.body.classList.remove('light', 'dark');
-	document.body.classList.add($theme);
+	document.documentElement.classList.remove('light', 'dark');
+	document.documentElement.classList.add($theme);
 });

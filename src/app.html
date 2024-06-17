@@ -9,7 +9,7 @@
 	<body data-sveltekit-preload-data="hover">
 		<script>
 			const colorScheme = localStorage.getItem('color-scheme');
-			if (colorScheme) document.body.classList.add(colorScheme);
+			if (colorScheme) document.documentElement.classList.add(colorScheme);
 		</script>
 
 		<div style="display: contents">%sveltekit.body%</div>
