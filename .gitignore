@@ -22,3 +22,4 @@ vite.config.ts.timestamp-*
 
 # PackageManager
 bun.lockb
+yarn.lock
