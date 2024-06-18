@@ -23,3 +23,11 @@ vite.config.ts.timestamp-*
 # PackageManager
 bun.lockb
 yarn.lock
+package-lock.json
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Seo
+/static/robots.txt
