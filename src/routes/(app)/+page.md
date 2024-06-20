@@ -70,6 +70,9 @@
             <p>
                 {$t('homepage.magic.introduction')}
             </p>
+             <p>
+                {$t('homepage.magic.list.title')}
+            </p>
 			<ul class="list-manakit-is-best">
 				<li>
                     {@html $t('homepage.magic.list.customizable')}
