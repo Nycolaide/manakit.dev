@@ -70,7 +70,7 @@ export const dataNavigationDocs = [
 			{
 				name: 'Border radius',
 				tags: 'rounded, border-radius',
-				href: '/docs/styles/rounded'
+				href: '/docs/styles/border-radius'
 			},
 			{
 				name: 'Typography',
