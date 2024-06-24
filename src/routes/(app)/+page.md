@@ -13,7 +13,7 @@
 			attraction: 'O'
 		},
 		{ name: $t('homepage.is-best.table.themes'), manakit: 'O', melt: 'O', attraction: 'O' },
-		{ name: $t('homepage.is-best.table.components'), manakit: 12, melt: 40, attraction: 50 },
+		{ name: $t('homepage.is-best.table.components'), manakit: 14, melt: 36, attraction: 49 },
 		{ name: $t('homepage.is-best.table.support'), manakit: 'O', melt: 'O', attraction: 'X' },
 		{
 			name: $t('homepage.is-best.table.release') + '**',
