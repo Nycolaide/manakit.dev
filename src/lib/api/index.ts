@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { manakitRegistry } from '$lib/store';
 import axios from 'axios';
 
@@ -8,5 +9,7 @@ export async function getRegistryManakit() {
 		manakitRegistry.set({
 			version: values?.data['dist-tags']?.latest
 		});
-	} catch (error) {}
+	} catch (error) {
+		/* empty */
+	}
 }

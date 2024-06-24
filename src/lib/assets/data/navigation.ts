@@ -88,11 +88,6 @@ export const dataNavigationDocs = [
 		name: 'Components',
 		items: [
 			{
-				name: 'App',
-				tags: 'app',
-				href: '/docs/components/app'
-			},
-			{
 				name: 'Btn',
 				tags: 'btn',
 				href: '/docs/components/btn'
@@ -101,6 +96,16 @@ export const dataNavigationDocs = [
 				name: 'Card',
 				tags: 'card',
 				href: '/docs/components/card'
+			},
+			{
+				name: 'Toolbar',
+				tags: 'toolbar',
+				href: '/docs/components/toolbar'
+			},
+			{
+				name: 'Switch',
+				tags: 'switch',
+				href: '/docs/components/switch'
 			}
 		]
 	}

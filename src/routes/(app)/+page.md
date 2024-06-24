@@ -31,6 +31,13 @@
 </script>
 
 <a href="/docs">Access to Docs</a>
+<a href="/legal/terms">Legals</a>
+<a href="/legal/license">License</a>
+<a href="/legal/contributing">Contributing</a>
+<a href="/legal/code-of-conduct">Code of conduct</a>
+<a href="https://github.com/minedelve/manakit/blob/main/CHANGELOG.md">Changelog</a>
+
+<br/>
 
 <Row>
     <Col class="col-12">

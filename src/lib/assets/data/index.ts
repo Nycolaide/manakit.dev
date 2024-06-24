@@ -14,6 +14,8 @@ export * from './docs/themes';
 export * from './docs/components/app';
 export * from './docs/components/btn';
 export * from './docs/components/card';
+export * from './docs/components/toolbar';
+export * from './docs/components/switch';
 
 export * from './homepage';
 export * from './navigation';
