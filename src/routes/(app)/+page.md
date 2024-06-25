@@ -38,6 +38,10 @@
 <a href="https://github.com/minedelve/manakit/blob/main/CHANGELOG.md">Changelog</a>
 
 <br/>
+<br/>
+   {$t('homepage.introduction.title2')}
+<br/>
+<br/>
 
 <Row>
     <Col class="col-12">
